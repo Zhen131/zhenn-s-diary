@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Obsidian local state and caches
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# Obsidian trash and temporary files
+.trash/
+*.tmp
+*.temp
+*~
+
+# Editor and system noise
+.vscode/
+.idea/
